@@ -1,5 +1,3 @@
-# Visual Studio Codeの練習
+# Visual Studio Code、Visual Studio 2019の練習
 
-練習です。
-
-vscodeでファイルを変更
+練習用のリポジトリ
