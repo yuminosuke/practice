@@ -1,3 +1,4 @@
-# Visual Studio Code、Visual Studio 2019の練習
+# Office Work Manual
+事務マニュアル
 
-練習用のリポジトリ test
+加筆は自由に行ってかまいませんが、構成を変更する際は事前に担当者に確認してください。
